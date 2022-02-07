@@ -23,7 +23,7 @@ body {
 	letter-spacing: 0.145em;
 	background-position-x: 45vw;
 	background-size: 55vw;
-	background-image: url(//src/_includes/assets/img/svg/sota.svg);
+	background-image: url(/images/icons/sota.svg);
 	@apply w-full max-w-full overflow-x-hidden text-white;
 }
 
@@ -59,7 +59,6 @@ body {
 	font-size: calc(14px + 6 var(--adaptive));
 }
 .adaptive__font18,
-.yarlik,
 .advan__text-item,
 .process__modal > p,
 .process__punkts > li{
